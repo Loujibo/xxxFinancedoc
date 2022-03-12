@@ -65,7 +65,7 @@ We will adjust our use cases, to have different behaviors on contraction and exp
 
 To encourage the redemption of $LBOND for $LABIA when $LABIA's TWAP > 1.1 and in order to incentivize users to redeem bonds at a higher price, $LBOND redemption is designed to be more profitable with a higher $LABIA TWAP value. The $LBOND to $LABIA ratio is 1:R, where R can be calculated using the formula as shown below:
 
-![](../.gitbook/assets/WX20220304-090034@2x.png)
+![](../.gitbook/assets/微信图片\_20220312215943.jpg)
 
 ### When can I swap $LBOND for a premium?
 

@@ -12,9 +12,9 @@ coverY: 0
 **See the transaction here:**\
 ****
 
-**https://ftmscan.com/tx/0x**
+****[**https://ftmscan.com/tx/0xad2f725017be1136c04990dd218f2be5dd5524d4cc214108841100873c7ee3df**](https://ftmscan.com/tx/0xad2f725017be1136c04990dd218f2be5dd5524d4cc214108841100873c7ee3df)****
 
-**https://ftmscan.com/tx/0x**
+****[**https://ftmscan.com/tx/0x024d4b47522818c7e4b109ec5a27104c854e3e3902575e8f725f272f396b498d**](https://ftmscan.com/tx/0x024d4b47522818c7e4b109ec5a27104c854e3e3902575e8f725f272f396b498d)****
 {% endhint %}
 
 
