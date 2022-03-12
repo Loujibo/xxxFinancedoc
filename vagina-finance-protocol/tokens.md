@@ -6,7 +6,7 @@
 
 
 
-Contract: 0xcDC6a39Ec85dE2248641C32b38A0836425980ce9
+Contract: 0x52530B1aE82792B561bfeC299e18e306ac3C1e33
 
 <mark style="color:red;"></mark>
 
@@ -24,7 +24,7 @@ Note that $LABIA **actively pegs via the algorithm**, it **does not mean** it wi
 
 
 
-Contract: 0x3e3190C6BAb74842E54e52D28B4F595576AaC249
+Contract: 0xD6337601D2784550e8d0Adc2FFBA49D7B5a96c60
 
 
 
@@ -40,7 +40,7 @@ $LSHARE has a **maximum total supply of 30,000** tokens distributed as follows:
 
 ![](../.gitbook/assets/crypto\_main\_bond.png)
 
-Contract: 0x876C2eFc89c5929F9147344d920E7388161BbdaC
+Contract: 0xc067e4268DEEB101EAa74D58d76D04445C11e42b
 
 <mark style="color:red;"></mark>
 

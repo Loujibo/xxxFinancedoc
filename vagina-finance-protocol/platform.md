@@ -5,7 +5,7 @@
 ![](../.gitbook/assets/微信截图\_20220312175554.png)
 
 * Epoch duration: 6 hours
-* Any interaction with the Bathtub (staking/unstaking $LSHARE or withdrawing $LABIA rewards) will **lock your staked $LSHARE for 6 epochs and $LABIA** **rewards for 3 epochs.**&#x20;
+* Any interaction with the [TAMPON](https://vaginafinance.app/TAMPON) (staking/unstaking $LSHARE or withdrawing $LABIA rewards) will **lock your staked $LSHARE for 6 epochs and $LABIA** **rewards for 3 epochs.**&#x20;
 *   Distribution of $LABIA during Expansion
 
     **80%** as Reward for Boardroom $LSHARE Stakers\
@@ -24,10 +24,10 @@
 | 50M+                      | 1% expansion      |
 
 {% hint style="info" %}
-The Bathtub **does not** print any rewards for $LSHARE stakers when the Bathtub TWAP < 1.01.
+The [TAMPON](https://vaginafinance.app/TAMPON) **does not** print any rewards for $LSHARE stakers when the [TAMPON](https://vaginafinance.app/TAMPON) TWAP < 1.01.
 {% endhint %}
 
-### Bathtub UI Information
+### [TAMPON](https://vaginafinance.app/TAMPON) UI Information
 
 Next **Epoch** indicates a countdown timer to the next epoch. (Each epoch duration lasts for 6 hours)                                                                                                              &#x20;
 

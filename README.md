@@ -23,4 +23,4 @@ Our vision is to protect women around the world.
 
 ![](.gitbook/assets/6.jpg)
 
-We're responding to a social change that is happening, where we are caring more about ethics, values and principles, and throwing off the shackles of previous hierarchies of classism, misogyny and homophobia. We're trying to live these values and say we should have a society based on them.
+### **We're responding to a social change that is happening, where we are caring more about ethics, values and principles, and throwing off the shackles of previous hierarchies of classism, misogyny and homophobia. We're trying to live these values and say we should have a society based on them.❤**

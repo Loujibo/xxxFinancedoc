@@ -10,77 +10,65 @@ description: Below is a list of addresses and associated links to ftmscan
 **See the transaction here:**\
 ****
 
-****[**https://ftmscan.com/tx/0xc9bd9233bc045149269534950588a565381f7c4fbcfaa6841052402530dc23c8**](https://ftmscan.com/tx/0xc9bd9233bc045149269534950588a565381f7c4fbcfaa6841052402530dc23c8)****
+**https://ftmscan.com/tx/0x**
 
-****[**https://ftmscan.com/tx/0xcb11cda5b189700bbf50930169ff56c243b3add7bab7036af533b3bb912d073c**](https://ftmscan.com/tx/0xcb11cda5b189700bbf50930169ff56c243b3add7bab7036af533b3bb912d073c)****
+**https://ftmscan.com/tx/0x**
 {% endhint %}
 
 
 
-**$LABIA** 0xcDC6a39Ec85dE2248641C32b38A0836425980ce9
+$**LABIA** 0x52530B1aE82792B561bfeC299e18e306ac3C1e33&#x20;
 
-{% embed url="https://ftmscan.com/address/0xcdc6a39ec85de2248641c32b38a0836425980ce9" %}
+{% embed url="https://ftmscan.com/address/0x52530b1ae82792b561bfec299e18e306ac3c1e33" %}
 
-**$LSHARE** 0x3e3190C6BAb74842E54e52D28B4F595576AaC249
+$**LSHARE** 0xD6337601D2784550e8d0Adc2FFBA49D7B5a96c60&#x20;
 
-{% embed url="https://ftmscan.com/address/0x3e3190c6bab74842e54e52d28b4f595576aac249" %}
+{% embed url="https://ftmscan.com/address/0xD6337601D2784550e8d0Adc2FFBA49D7B5a96c60" %}
 
-**$LBOND** 0x876C2eFc89c5929F9147344d920E7388161BbdaC
+$**LBOND** 0xc067e4268DEEB101EAa74D58d76D04445C11e42b&#x20;
 
-{% embed url="https://ftmscan.com/address/0x876C2eFc89c5929F9147344d920E7388161BbdaC" %}
+{% embed url="https://ftmscan.com/address/0xc067e4268deeb101eaa74d58d76d04445c11e42b" %}
 
-DAOWallet 0xeBcc73cAf2791180AbfA48Bd4Ce31ca5Fb6c99ae
+**DAOWallet** 0xC2Caa724De7D55a6FB5C2ae671D737A59680Bcef&#x20;
 
-{% embed url="https://ftmscan.com/address/0xeBcc73cAf2791180AbfA48Bd4Ce31ca5Fb6c99ae" %}
+{% embed url="https://ftmscan.com/address/0xC2Caa724De7D55a6FB5C2ae671D737A59680Bcef" %}
 
-DevWallet 0x5ff87A920b0FC62e41D49CF4492CE6D88aac0B47
+**DevWallet** 0x49B3990ed27702bB672b6F938477b07e7b31DD7f
 
-{% embed url="https://ftmscan.com/address/0x5ff87A920b0FC62e41D49CF4492CE6D88aac0B47" %}
+{% embed url="https://ftmscan.com/address/0x49B3990ed27702bB672b6F938477b07e7b31DD7f" %}
 
-MainGenesisRewardPool 0x2ce8ba0A81f9AAAB3cE1Ec143Eb9ec20211A2a05
+**LabiaGenesisRewardPool** 0xB0a71a5B374DFC790591a75b12c0cb93a4c6BBDA&#x20;
 
-{% embed url="https://ftmscan.com/address/0x2ce8ba0a81f9aaab3ce1ec143eb9ec20211a2a05" %}
+{% embed url="https://ftmscan.com/address/0xB0a71a5B374DFC790591a75b12c0cb93a4c6BBDA" %}
 
-MainRewardPool 0x2949e43A466FA6Be0ed8eC1794Eb4eaA94bCACda
+**LShareRewardPool** 0x7a8739d4Dd6998E537D8c5FEec45B3691E59D106&#x20;
 
-{% embed url="https://ftmscan.com/address/0x2949e43A466FA6Be0ed8eC1794Eb4eaA94bCACda" %}
+{% embed url="https://ftmscan.com/address/0x7a8739d4Dd6998E537D8c5FEec45B3691E59D106" %}
 
-ShareRewardPool 0x78Be1166515889A96907CEc60dc080722D360f74
+**Oracle** 0x416910C320d4eA0c919C332c348ED316573Efe8C&#x20;
 
-{% embed url="https://ftmscan.com/address/0x78Be1166515889A96907CEc60dc080722D360f74" %}
+{% embed url="https://ftmscan.com/address/0x416910C320d4eA0c919C332c348ED316573Efe8C" %}
 
-Oracle 0x4A17409dCDa15ECBF61F5693d6336C3e90599e36
+**Masonry** 0x3973628d5c561487C9d7B8d649938e75c4eA2e7B&#x20;
 
-{% embed url="https://ftmscan.com/address/0x4A17409dCDa15ECBF61F5693d6336C3e90599e36" %}
+{% embed url="https://ftmscan.com/address/0x3973628d5c561487C9d7B8d649938e75c4eA2e7B" %}
 
-Masonry 0x21ec8d6f508C5C0B40E1A86fE53AdBd033e82137
+**Treasury** 0x7e92909E38560259e8c9A6E4fD1898377407D2fC&#x20;
 
-{% embed url="https://ftmscan.com/address/0x21ec8d6f508C5C0B40E1A86fE53AdBd033e82137" %}
+{% embed url="https://ftmscan.com/address/0x7e92909E38560259e8c9A6E4fD1898377407D2fC" %}
 
-TaxOracle 0xDeEb8d38492312Cd4Ff6D1440B5Ff4D5eC860901
+**TaxOfficeV2** 0x3473281c1a7088f7438d087bc749550379a53621&#x20;
 
-{% embed url="https://ftmscan.com/address/0xDeEb8d38492312Cd4Ff6D1440B5Ff4D5eC860901" %}
+{% embed url="https://ftmscan.com/address/0x3473281c1a7088f7438d087bc749550379a53621" %}
 
-Treasury 0xb8cBacdE2Bc1EC8b9d17Ebb181c57cc214bD9DFe
+**TaxOracle** 0x8dE29EE734b7a7811C51A963A6D9D99B84E2F84F&#x20;
 
-{% embed url="https://ftmscan.com/address/0xb8cBacdE2Bc1EC8b9d17Ebb181c57cc214bD9DFe" %}
+{% embed url="https://ftmscan.com/address/0x8dE29EE734b7a7811C51A963A6D9D99B84E2F84F" %}
 
-TaxOffice 0xd397FDd5570721BD6Aba6FC0D74D507B183E0B0E
+**$LABIA-FTM-LP** 0x493a8E1A966AE87B8c2547CBc64063eC8df848aB&#x20;
 
-{% embed url="https://ftmscan.com/address/0xd397FDd5570721BD6Aba6FC0D74D507B183E0B0E" %}
+{% embed url="https://ftmscan.com/address/0x493a8E1A966AE87B8c2547CBc64063eC8df848aB" %}
 
-TaxOfficeV2 0x6897EfbEEE2b7B01675d98E9E2dccBFaD94CF38e
+**$LSHARE-FTM-LP** 0x1a377a4dC1DBaD9A646FCfEdaB93FA8518600669&#x20;
 
-{% embed url="https://ftmscan.com/address/0x6897EfbEEE2b7B01675d98E9E2dccBFaD94CF38e" %}
-
-TaxOracle 0xDeEb8d38492312Cd4Ff6D1440B5Ff4D5eC860901
-
-{% embed url="https://ftmscan.com/address/0xDeEb8d38492312Cd4Ff6D1440B5Ff4D5eC860901" %}
-
-$LABIA-FTM-LP 0x7A69259c6df8af0a2A04F62633D43508ae926583
-
-{% embed url="https://ftmscan.com/address/0x7A69259c6df8af0a2A04F62633D43508ae926583" %}
-
-$LSHARE-FTM-LP 0x579Fe27b1F397297Fb92B678F54F9E01c3CCce50
-
-{% embed url="https://ftmscan.com/address/0x579Fe27b1F397297Fb92B678F54F9E01c3CCce50" %}
+{% embed url="https://ftmscan.com/address/0x1a377a4dC1DBaD9A646FCfEdaB93FA8518600669" %}
