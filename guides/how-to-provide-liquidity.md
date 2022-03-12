@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/3 (1).jpg
+coverY: 0
+---
+
 # 🔵 How to Provide Liquidity
 
 In order to provide Liquidity, we first have to purchase either $LABIA or $LSHARE (have a look at our "How to buy $LABIA section if you need help in doing so), depending on which you want to provide liquidity for.

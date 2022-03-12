@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/9.jpg
+coverY: 0
+---
+
 # 👩🏭 Tokens
 
 ## $LABIA

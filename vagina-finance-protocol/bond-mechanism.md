@@ -1,4 +1,9 @@
-# 💵 Bond Mechanism
+---
+cover: ../.gitbook/assets/9.jpg
+coverY: 0
+---
+
+# 👷♀ Bond Mechanism
 
 ![](../.gitbook/assets/13.jpg)
 

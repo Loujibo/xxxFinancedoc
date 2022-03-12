@@ -1,5 +1,7 @@
 ---
 description: Below is a list of addresses and associated links to ftmscan
+cover: ../.gitbook/assets/9.jpg
+coverY: 0
 ---
 
 # 👩🚒 Contracts & Wallets

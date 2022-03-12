@@ -3,6 +3,8 @@ description: >-
   This documentation is intended to take you through the entire process of how
   to participate in the Vagina Finance protocol to earn consistent high yields
   in a safe and secure manner
+cover: .gitbook/assets/pattern.png
+coverY: 0
 ---
 
 # 👰♀ Welcome!

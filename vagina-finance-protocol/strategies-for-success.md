@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/9.jpg
+coverY: 0
+---
+
 # 👩🚀 Strategies For Success
 
 Congratulations for making it this far!. Now that you're ready to start using Vagina Finance to earn some great yields, let's look at some basic strategies you can follow. We'll break things down by complexity and relative risk, so feel free to mix and match elements according to your own level of experience, goals, and risk tolerance.

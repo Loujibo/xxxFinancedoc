@@ -23,5 +23,3 @@
 ***
 
 * [website](https://breakingfinance.xyz)
-* [discord](https://discord.com/invite/aqKTm7yXmv)
-* [twitter](https://twitter.com/BreakingFinanc4)

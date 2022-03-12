@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/3 (1).jpg
+coverY: 0
+---
+
 # 🔴 Adding FTM Chain to your Metamask wallet
 
 
