@@ -4,7 +4,7 @@
 
 **Step 1.** Metamask setup&#x20;
 
-* Before being able to buy $PINK, we first need to setup our Fantom network on Metamask.
+* Before being able to buy $LABIA, we first need to setup our Fantom network on Metamask.
 * In order to do so, please open your Metamask wallet and select network; Custom RPC. (See attached image below).
 
 ![](../.gitbook/assets/WX20220303-164332@2x.png)

@@ -25,7 +25,7 @@ description: Below is a list of addresses and associated links to ftmscan
 
 {% embed url="https://ftmscan.com/address/0x3e3190c6bab74842e54e52d28b4f595576aac249" %}
 
-**$BLACK** 0x876C2eFc89c5929F9147344d920E7388161BbdaC
+**$LBOND** 0x876C2eFc89c5929F9147344d920E7388161BbdaC
 
 {% embed url="https://ftmscan.com/address/0x876C2eFc89c5929F9147344d920E7388161BbdaC" %}
 
