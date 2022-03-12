@@ -2,7 +2,7 @@
 description: Below is a list of addresses and associated links to ftmscan
 ---
 
-# 💳 Contracts & Wallets
+# 👩🚒 Contracts & Wallets
 
 {% hint style="success" %}
 **We've renounced our token contract prior to the launch of our Genesis pools, in order to provide transparency and address safety concerns mentioned by the community.** \
@@ -21,11 +21,11 @@ description: Below is a list of addresses and associated links to ftmscan
 
 {% embed url="https://ftmscan.com/address/0xcdc6a39ec85de2248641c32b38a0836425980ce9" %}
 
-**$WHITE** 0x3e3190C6BAb74842E54e52D28B4F595576AaC249
+**$LSHARE** 0x3e3190C6BAb74842E54e52D28B4F595576AaC249
 
 {% embed url="https://ftmscan.com/address/0x3e3190c6bab74842e54e52d28b4f595576aac249" %}
 
-**$BLACK** 0x876C2eFc89c5929F9147344d920E7388161BbdaC
+**$LBOND** 0x876C2eFc89c5929F9147344d920E7388161BbdaC
 
 {% embed url="https://ftmscan.com/address/0x876C2eFc89c5929F9147344d920E7388161BbdaC" %}
 

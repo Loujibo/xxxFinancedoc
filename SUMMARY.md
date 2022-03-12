@@ -8,11 +8,11 @@
 * [👩🎤 Genesis Pools & Token Allocation](vagina-finance-protocol/genesis-pools-and-token-allocation.md)
 * [👩🏭 Tokens](vagina-finance-protocol/tokens.md)
 * [👩🔬 Platform](vagina-finance-protocol/platform.md)
-* [💵 Bond Mechanism](vagina-finance-protocol/bond-mechanism.md)
-* [🥳 Strategies For Success](vagina-finance-protocol/strategies-for-success.md)
-* [💳 Contracts & Wallets](vagina-finance-protocol/contracts-and-wallets.md)
+* [👷♀ Bond Mechanism](vagina-finance-protocol/bond-mechanism.md)
+* [👩🚀 Strategies For Success](vagina-finance-protocol/strategies-for-success.md)
+* [👩🚒 Contracts & Wallets](vagina-finance-protocol/contracts-and-wallets.md)
 
-## GUIDES
+## 👩💻 GUIDES
 
 * [🔴 Adding FTM Chain to your Metamask wallet](guides/adding-ftm-chain-to-your-metamask-wallet.md)
 * [🟠 Bridging to FTM from Other Chains](guides/bridging-to-ftm-from-other-chains.md)
