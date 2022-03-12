@@ -1,17 +1,17 @@
 ---
 description: >-
   This documentation is intended to take you through the entire process of how
-  to participate in the Breaking Finance protocol to earn consistent high yields
+  to participate in the Vagina Finance protocol to earn consistent high yields
   in a safe and secure manner
 ---
 
-# 👏 Welcome!
+# 👰♀ Welcome!
 
 ## [Origins](./#origins)
 
-![](.gitbook/assets/crypto\_tomb\_bond.png)
+![](.gitbook/assets/3.jpg)
 
-Breaking Finance builds upon the great work of **tomb.finance**, which created the first algorithmic token pegged to $FTM on the Fantom Opera network. With the promise of lucrative yields, numerous subsequent copy-cat forks have launched, many of which turning out to be low-quality, poorly-managed, and downright dangerous to participate in (i.e. rug-pulls; awful founder token allocation, etc.)
+Vagina Finance builds upon the great work of **tomb.finance**, which created the first algorithmic token pegged to $FTM on the Fantom Opera network. With the promise of lucrative yields, numerous subsequent copy-cat forks have launched, many of which turning out to be low-quality, poorly-managed, and downright dangerous to participate in (i.e. rug-pulls; awful founder token allocation, etc.)
 
 As your fellow degen traders, we became increasingly frustrated with the lack of subsequent high-quality projects in this niche that could promise us those high yields that we all crave.&#x20;
 
@@ -19,8 +19,8 @@ As full-stack blockchain engineers, we decided to launch our own protocol, build
 
 ## [Vision](./#vision)
 
-Our vision is to develop a MetaVerse gaming ecosystem around the protocol
+Our vision is to protect women around the world.
 
-![](.gitbook/assets/06989b4cc27e62cfa116bf89f9fdced6.png)
+![](.gitbook/assets/6.jpg)
 
-Breaking Finance is only the first phase in building out our gaming ecosystem. As our algorithms are continuously refined, we will launch additional protocols, including but not limited to a Play-to-Earn  fighting game. All of our protocols will be interconnected within a unified ecosystem with a highly functional free-market economy, and all of our game protocols will provide tremendous yield generating opportunities.
+We're responding to a social change that is happening, where we are caring more about ethics, values and principles, and throwing off the shackles of previous hierarchies of classism, misogyny and homophobia. We're trying to live these values and say we should have a society based on them.

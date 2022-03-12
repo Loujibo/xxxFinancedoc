@@ -13,4 +13,4 @@ If $PINK or $WHITE do not show up, please copy/paste the address shown below man
 
 Click on supply and accept the transaction in your wallet.
 
-Now that you have provided LP, you can head over to [Breaking Finance](https://breakingfinance.xyz) and farm your LP's.
+Now that you have provided LP, you can head over to [Vaginafinance](https://vaginafinance.app) and farm your LP's.

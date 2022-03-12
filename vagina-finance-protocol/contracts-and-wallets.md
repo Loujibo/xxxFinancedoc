@@ -17,7 +17,7 @@ description: Below is a list of addresses and associated links to ftmscan
 
 
 
-**$PINK** 0xcDC6a39Ec85dE2248641C32b38A0836425980ce9
+**$LABIA** 0xcDC6a39Ec85dE2248641C32b38A0836425980ce9
 
 {% embed url="https://ftmscan.com/address/0xcdc6a39ec85de2248641c32b38a0836425980ce9" %}
 
@@ -77,10 +77,10 @@ TaxOracle 0xDeEb8d38492312Cd4Ff6D1440B5Ff4D5eC860901
 
 {% embed url="https://ftmscan.com/address/0xDeEb8d38492312Cd4Ff6D1440B5Ff4D5eC860901" %}
 
-$PINK-ftm-lp 0x7A69259c6df8af0a2A04F62633D43508ae926583
+$LABIA-FTM-LP 0x7A69259c6df8af0a2A04F62633D43508ae926583
 
 {% embed url="https://ftmscan.com/address/0x7A69259c6df8af0a2A04F62633D43508ae926583" %}
 
-$WHITE-ftm-lp 0x579Fe27b1F397297Fb92B678F54F9E01c3CCce50
+$LSHARE-FTM-LP 0x579Fe27b1F397297Fb92B678F54F9E01c3CCce50
 
 {% embed url="https://ftmscan.com/address/0x579Fe27b1F397297Fb92B678F54F9E01c3CCce50" %}
