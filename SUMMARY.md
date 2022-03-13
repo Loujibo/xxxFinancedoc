@@ -22,6 +22,6 @@
 
 ***
 
-* [website](https://vaginafinance.app)
-* [discord](https://discord.gg/UFvhD9Y8)
-* [twitter](https://twitter.com/VaginaFinance)
+* [Website](https://vaginafinance.app)
+* [Discord](https://discord.gg/UFvhD9Y8)
+* [Twitter](https://twitter.com/VaginaFinance)
