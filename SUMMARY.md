@@ -22,4 +22,6 @@
 
 ***
 
-* [website](https://breakingfinance.xyz)
+* [website](https://vaginafinance.app)
+* [discord](https://discord.gg/UFvhD9Y8)
+* [twitter](https://twitter.com/VaginaFinance)
