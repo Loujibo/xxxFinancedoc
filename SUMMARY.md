@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👰♀ Welcome!](README.md)
+* [Welcome!](README.md)
 * [👩🎓 Team](team.md)
 
 ## 👩🦱 VAGINA FINANCE PROTOCOL
