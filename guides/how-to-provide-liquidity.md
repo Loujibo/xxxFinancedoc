@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/3 (1).jpg
-coverY: 0
----
-
 # 🔵 How to Provide Liquidity
 
 In order to provide Liquidity, we first have to purchase either $FRANKENSTEIN or $VAMPIRE (have a look at our "How to buy $FRANKENSTEIN section if you need help in doing so), depending on which you want to provide liquidity for.
@@ -18,4 +13,4 @@ If $FRANKENSTEIN or $VAMPIRE do not show up, please copy/paste the address shown
 
 Click on supply and accept the transaction in your wallet.
 
-Now that you have provided LP, you can head over to [Hauntedfinance](https://Hauntedfinance.app) and farm your LP's.
+Now that you have provided LP, you can head over to [Hauntedfinance](https://hauntedfinance.app) and farm your LP's.
