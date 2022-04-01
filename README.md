@@ -1,7 +1,7 @@
 ---
 description: >-
   This documentation is intended to take you through the entire process of how
-  to participate in the Vagina Finance protocol to earn consistent high yields
+  to participate in the Haunted Finance protocol to earn consistent high yields
   in a safe and secure manner
 cover: .gitbook/assets/pattern.png
 coverY: 0
@@ -13,7 +13,7 @@ coverY: 0
 
 ![](.gitbook/assets/3.jpg)
 
-Vagina Finance builds upon the great work of **tomb.finance**, which created the first algorithmic token pegged to $FTM on the Fantom Opera network. With the promise of lucrative yields, numerous subsequent copy-cat forks have launched, many of which turning out to be low-quality, poorly-managed, and downright dangerous to participate in (i.e. rug-pulls; awful founder token allocation, etc.)
+Haunted Finance builds upon the great work of **tomb.finance**, which created the first algorithmic token pegged to $FTM on the Fantom Opera network. With the promise of lucrative yields, numerous subsequent copy-cat forks have launched, many of which turning out to be low-quality, poorly-managed, and downright dangerous to participate in (i.e. rug-pulls; awful founder token allocation, etc.)
 
 As your fellow degen traders, we became increasingly frustrated with the lack of subsequent high-quality projects in this niche that could promise us those high yields that we all crave.&#x20;
 

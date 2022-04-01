@@ -23,7 +23,7 @@ $SKULL TWAP (time-weighted average price) is based on $FRANKENSTEIN price TWAP f
 
 ### Where can I buy $SKULL (Bonds)?
 
-You can buy $SKULLs if any are available, on the **Bonds** page at [https://vaginafinance.app/BED](https://vaginafinance.app/BED) anyone can buy as many $SKULLs as they want as long as they have enough $FRANKENSTEIN to pay for them.
+You can buy $SKULLs if any are available, on the **Bonds** page at [https://Hauntedfinance.app/BED](https://Hauntedfinance.app/BED) anyone can buy as many $SKULLs as they want as long as they have enough $FRANKENSTEIN to pay for them.
 
 There is a limit of available $SKULLs per epoch during contraction periods (3% of $FRANKENSTEIN's current circulating supply), and are sold first-come-first-serve.
 
