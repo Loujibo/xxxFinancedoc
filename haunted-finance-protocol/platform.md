@@ -1,11 +1,11 @@
 # Platform
 
-## [TAMPON](https://hauntedfinance.app/TAMPON)
+## [Masonry](https://hauntedfinance.app/Masonry)
 
 ![](../.gitbook/assets/微信截图\_20220312175554.png)
 
 * Epoch duration: 6 hours
-* Any interaction with the [TAMPON](https://hauntedfinance.app/TAMPON) (staking/unstaking $VAMPIRE or withdrawing $FRANKENSTEIN rewards) will **lock your staked $VAMPIRE for 6 epochs and $FRANKENSTEIN** **rewards for 3 epochs.**
+* Any interaction with the [Masonry](https://hauntedfinance.app/Masonry) (staking/unstaking $VAMPIRE or withdrawing $FRANKENSTEIN rewards) will **lock your staked $VAMPIRE for 6 epochs and $FRANKENSTEIN** **rewards for 3 epochs.**
 *   Distribution of $FRANKENSTEIN during Expansion
 
     **80%** as Reward for Boardroom $VAMPIRE Stakers\
@@ -24,10 +24,10 @@
 | 50M+                             | 1% expansion             |
 
 {% hint style="info" %}
-The [TAMPON](https://hauntedfinance.app/TAMPON) **does not** print any rewards for $VAMPIRE stakers when the [TAMPON](https://hauntedfinance.app/TAMPON) TWAP < 1.01.
+The [Masonry](https://hauntedfinance.app/Masonry) **does not** print any rewards for $VAMPIRE stakers when the [Masonry](https://hauntedfinance.app/Masonry) TWAP < 1.01.
 {% endhint %}
 
-### [TAMPON](https://hauntedfinance.app/TAMPON) UI Information
+### [Masonry](https://hauntedfinance.app/Masonry) UI Information
 
 Next **Epoch** indicates a countdown timer to the next epoch. (Each epoch duration lasts for 6 hours)
 
@@ -38,7 +38,7 @@ _Note: \*\*\*\* APR fluctuates from time to time and is dependent on certain fac
 * Price of $VAMPIRE
 * Amount of $VAMPIRE staked in Hatchery (Locked Value)
 
-### [TAMPON](https://hauntedfinance.app/TAMPON) Debt Phase
+### [Masonry](https://hauntedfinance.app/Masonry) Debt Phase
 
 A debt phase takes place during expansion epochs that start after a contraction period where there are still $SKULL to be redeemed.
 
@@ -46,16 +46,16 @@ A debt phase takes place during expansion epochs that start after a contraction 
 
 Once enough $FRANKENSTEIN is sufficiently stocked in the treasury to satisfy the redemption of all circulating $SKULL , expansion rates will resume to normal.
 
-## [PANTIES](https://hauntedfinance.app/PANTIES)
+## [Cemetery](https://hauntedfinance.app/Cemetery)
 
 ![](../.gitbook/assets/微信截图\_20220312180313.png)
 
-To incentivize healthy liquidity pools for the Haunted Finance protocol tokens, our LP [PANTIES](https://hauntedfinance.app/PANTIES) have been seeded with $VAMPIREs to be distributed as rewards to LP stakers across a time period of 12 months. The total $VAMPIRE rewards are distributed from each [PANTIES](https://hauntedfinance.app/PANTIES) as follows:
+To incentivize healthy liquidity pools for the Haunted Finance protocol tokens, our LP [Cemetery](https://hauntedfinance.app/Cemetery) have been seeded with $VAMPIREs to be distributed as rewards to LP stakers across a time period of 12 months. The total $VAMPIRE rewards are distributed from each [Cemetery](https://hauntedfinance.app/Cemetery) as follows:
 
 * $FRANKENSTEIN-FTM LP: 10,000 $VAMPIRE
 * $VAMPIRE-FTM LP: 20,000 $VAMPIRE
 
-## [BED](https://hauntedfinance.app/BED)
+## [Pit](https://hauntedfinance.app/Pit)
 
 ![](../.gitbook/assets/微信截图\_20220312180433.png)
 

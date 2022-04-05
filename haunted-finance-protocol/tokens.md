@@ -19,7 +19,7 @@ Note that $FRANKENSTEIN **actively pegs via the algorithm**, it **does not mean*
 
 Contract: 0xD6337601D2784550e8d0Adc2FFBA49D7B5a96c60
 
-$VAMPIREs are one of the ways to measure the value of the Haunted Finance Protocol and shareholder trust in its ability to consistently maintain $FRANKENSTEIN close to peg. During epoch expansions the protocol mints $FRANKENSTEIN and distributes it proportionally to all $VAMPIRE holders who have staked their tokens in the [TAMPON](https://hauntedfinance.app/TAMPON).
+$VAMPIREs are one of the ways to measure the value of the Haunted Finance Protocol and shareholder trust in its ability to consistently maintain $FRANKENSTEIN close to peg. During epoch expansions the protocol mints $FRANKENSTEIN and distributes it proportionally to all $VAMPIRE holders who have staked their tokens in the [Masonry](https://hauntedfinance.app/Masonry).
 
 $VAMPIRE has a **maximum total supply of 30,000** tokens distributed as follows:
 
