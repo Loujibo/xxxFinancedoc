@@ -12,7 +12,7 @@ The following dates are the expected roll-out of the Haunted Finance initial eco
 
 There will be 5 Genesis Pools:
 
-$FRANKENSTEIN 38888
+$FRANKENSTEIN 15000
 
 WFTM 0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83 30%
 
