@@ -2,11 +2,11 @@
 
 The following dates are the expected roll-out of the Haunted Finance initial ecosystem on Fantom.
 
-* Genesis Start = 2022-03-18 12:00:00 UTC
-* Genesis End = 2022-03-20 12:00:00 UTC
-* [PANTIES](https://hauntedfinance.app/PANTIES) Start = 2022-03-20 12:00:00UTC (210 days)
-* [TAMPON](https://hauntedfinance.app/TAMPON) Start = 2022-03-20 18:00:00 UTC (Indefinitely)
-  * \-> Make sure that you stake your $VAMPIRE in the [TAMPON](https://hauntedfinance.app/TAMPON) BEFORE the start of the 1st Epoch at 2022-03-20 18:00:00 UTC in order to earn $FRANKENSTEIN on the first expansion.
+* Genesis Start = 2022-04-18 18:00:00 UTC
+* Genesis End = 2022-04-20 18:00:00 UTC
+* [PANTIES](https://hauntedfinance.app/PANTIES) Start = 2022-04-20 18:00:00UTC (210 days)
+* [TAMPON](https://hauntedfinance.app/TAMPON) Start = 2022-04-21 00:00:00 UTC (Indefinitely)
+  * \-> Make sure that you stake your $VAMPIRE in the [TAMPON](https://hauntedfinance.app/TAMPON) BEFORE the start of the 1st Epoch at 2022-04-21 00:00:00 UTC in order to earn $FRANKENSTEIN on the first expansion.
 
 ### Pool Reward Distribution
 
