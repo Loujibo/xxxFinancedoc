@@ -19,6 +19,8 @@ As full-stack blockchain engineers, we decided to launch our own protocol, build
 
 ## [Vision](./#vision)
 
+Our vision is to develop a MetaVerse gaming ecosystem around the protocol
+
 ![](.gitbook/assets/05-Halloween-Pack\_Presentation-05.png)
 
 Haunted Finance is only the first phase in building out our gaming ecosystem. As our algorithms are continuously refined, we will launch additional protocols, including but not limited to a Play-to-Earn fighting game. All of our protocols will be interconnected within a unified ecosystem with a highly functional free-market economy, and all of our game protocols will provide tremendous yield generating opportunities.
