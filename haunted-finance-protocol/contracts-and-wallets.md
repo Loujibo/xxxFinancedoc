@@ -5,15 +5,7 @@ description: Below is a list of addresses and associated links to ftmscan
 # Contracts & Wallets
 
 {% hint style="success" %}
-**We've renounced our token contract prior to the launch of our Genesis pools, in order to provide transparency and address safety concerns mentioned by the community.**\
-\*\*\*\*\
-**See the transaction here:**\\
-
-***
-
-[**https://ftmscan.com/tx/0xad2f725017be1136c04990dd218f2be5dd5524d4cc214108841100873c7ee3df**](https://ftmscan.com/tx/0xad2f725017be1136c04990dd218f2be5dd5524d4cc214108841100873c7ee3df)
-
-[**https://ftmscan.com/tx/0x024d4b47522818c7e4b109ec5a27104c854e3e3902575e8f725f272f396b498d**](https://ftmscan.com/tx/0x024d4b47522818c7e4b109ec5a27104c854e3e3902575e8f725f272f396b498d)
+**We've renounced our token contract prior to the launch of our Genesis pools, in order to provide transparency and address safety concerns mentioned by the community.**
 {% endhint %}
 
 $**FRANKENSTEIN** 0x52530B1aE82792B561bfeC299e18e306ac3C1e33
