@@ -4,10 +4,10 @@ Make sure you have some FTM in your Metamask wallet, please go to [Spookyswap](h
 
 If the tokens do not show up on the Exchange, please use the addresses provided below to purchase $FRANKENSTEIN or $VAMPIRE. Simply copy/paste the address.
 
-**$FRANKENSTEIN:** 0x52530B1aE82792B561bfeC299e18e306ac3C1e33
+**$FRANKENSTEIN:** 0xf337cdF10ee64D8EEf2C3c87A5ab13b520EcaFB7
 
-https://spookyswap.finance/add/FTM/0x52530B1aE82792B561bfeC299e18e306ac3C1e33
+https://spookyswap.finance/add/FTM/0xf337cdF10ee64D8EEf2C3c87A5ab13b520EcaFB7
 
-**$VAMPIRE:** 0xD6337601D2784550e8d0Adc2FFBA49D7B5a96c60
+**$VAMPIRE:** 0xe2e67b666b3b7BFBcE10E5124E2DF1a28F924849
 
-https://spookyswap.finance/add/FTM/0xD6337601D2784550e8d0Adc2FFBA49D7B5a96c60
+https://spookyswap.finance/add/FTM/0xe2e67b666b3b7BFBcE10E5124E2DF1a28F924849

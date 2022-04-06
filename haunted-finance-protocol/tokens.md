@@ -4,7 +4,7 @@
 
 ![](<../.gitbook/assets/crypto\_main\_cash (1).png>)
 
-Contract: 0x52530B1aE82792B561bfeC299e18e306ac3C1e33
+Contract: 0xf337cdF10ee64D8EEf2C3c87A5ab13b520EcaFB7
 
 The $FRANKENSTEIN token is designed to be used as a medium of exchange. The built-in stability mechanism in the protocol aims to maintain $FRANKENSTEIN's peg to 1 Fantom (FTM) token in the long run.\
 \\
@@ -17,7 +17,7 @@ Note that $FRANKENSTEIN **actively pegs via the algorithm**, it **does not mean*
 
 ![](<../.gitbook/assets/crypto\_main\_share (1).png>)
 
-Contract: 0xD6337601D2784550e8d0Adc2FFBA49D7B5a96c60
+Contract: 0xe2e67b666b3b7BFBcE10E5124E2DF1a28F924849
 
 $VAMPIREs are one of the ways to measure the value of the Haunted Finance Protocol and shareholder trust in its ability to consistently maintain $FRANKENSTEIN close to peg. During epoch expansions the protocol mints $FRANKENSTEIN and distributes it proportionally to all $VAMPIRE holders who have staked their tokens in the [Masonry](https://hauntedfinance.app/Masonry).
 
@@ -31,7 +31,7 @@ $VAMPIRE has a **maximum total supply of 30,000** tokens distributed as follows:
 
 ![](../.gitbook/assets/crypto\_main\_bond.png)
 
-Contract: 0xc067e4268DEEB101EAa74D58d76D04445C11e42b
+Contract: 0x6cFdf469f93F8f250F5f6e58Cb68be38c2Cb2874
 
 The main purpose of $FRANKENSTEIN Bonds ($SKULL) is to help incentivize changes in $FRANKENSTEIN supply during an epoch contraction period. When the TWAP (Time Weighted Average Price) of $FRANKENSTEIN falls below 1 FTM, $SKULLs are issued and can be bought with $FRANKENSTEIN at the current price. Exchanging $FRANKENSTEIN for $SKULL burns $FRANKENSTEIN tokens, taking them out of circulation (deflation) and helping to get the price back up to peg. These $SKULL can be redeemed for $FRANKENSTEIN when the price is above peg in the future, plus an extra incentive for the longer they are held above peg. This amounts to inflation and sell pressure for $FRANKENSTEIN when it is above peg, helping to push it back toward the 1 $FRANKENSTEIN to 1 FTM.
 

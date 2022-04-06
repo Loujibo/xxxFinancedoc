@@ -8,58 +8,58 @@ description: Below is a list of addresses and associated links to ftmscan
 **We've renounced our token contract prior to the launch of our Genesis pools, in order to provide transparency and address safety concerns mentioned by the community.**
 {% endhint %}
 
-$**FRANKENSTEIN** 0x52530B1aE82792B561bfeC299e18e306ac3C1e33
+$**FRANKENSTEIN** 0xf337cdF10ee64D8EEf2C3c87A5ab13b520EcaFB7
 
-{% embed url="https://ftmscan.com/address/0x52530b1ae82792b561bfec299e18e306ac3c1e33" %}
+{% embed url="https://ftmscan.com/address/0xf337cdF10ee64D8EEf2C3c87A5ab13b520EcaFB7" %}
 
-$**VAMPIRE** 0xD6337601D2784550e8d0Adc2FFBA49D7B5a96c60
+$**VAMPIRE** 0xe2e67b666b3b7BFBcE10E5124E2DF1a28F924849
 
-{% embed url="https://ftmscan.com/address/0xD6337601D2784550e8d0Adc2FFBA49D7B5a96c60" %}
+{% embed url="https://ftmscan.com/address/0xe2e67b666b3b7BFBcE10E5124E2DF1a28F924849" %}
 
-$**SKULL** 0xc067e4268DEEB101EAa74D58d76D04445C11e42b
+$**SKULL** 0x6cFdf469f93F8f250F5f6e58Cb68be38c2Cb2874
 
-{% embed url="https://ftmscan.com/address/0xc067e4268deeb101eaa74d58d76d04445c11e42b" %}
+{% embed url="https://ftmscan.com/address/0x6cFdf469f93F8f250F5f6e58Cb68be38c2Cb2874" %}
 
-**DAOWallet** 0xC2Caa724De7D55a6FB5C2ae671D737A59680Bcef
+**DevWallet** 0xC5497e15334eCE51D856Da025feDf5E10c8d6FCD
 
-{% embed url="https://ftmscan.com/address/0xC2Caa724De7D55a6FB5C2ae671D737A59680Bcef" %}
+{% embed url="https://ftmscan.com/address/0xC5497e15334eCE51D856Da025feDf5E10c8d6FCD" %}
 
-**DevWallet** 0x49B3990ed27702bB672b6F938477b07e7b31DD7f
+**FRANKENSTEINGenesisRewardPool** 0xA5cFfd9BD352b94aff50df5276144604b408C895
 
-{% embed url="https://ftmscan.com/address/0x49B3990ed27702bB672b6F938477b07e7b31DD7f" %}
+{% embed url="https://ftmscan.com/address/0xA5cFfd9BD352b94aff50df5276144604b408C895" %}
 
-**FRANKENSTEINGenesisRewardPool** 0xB0a71a5B374DFC790591a75b12c0cb93a4c6BBDA
+**FRANKENSTEINRewardPool** 0x13e8d9Cd4a8aF7FD0d0A511C4089f362d0AbB320
 
-{% embed url="https://ftmscan.com/address/0xB0a71a5B374DFC790591a75b12c0cb93a4c6BBDA" %}
+{% embed url="https://ftmscan.com/address/0x13e8d9Cd4a8aF7FD0d0A511C4089f362d0AbB320" %}
 
-**VAMPIRERewardPool** 0x7a8739d4Dd6998E537D8c5FEec45B3691E59D106
+**VAMPIRERewardPool** 0xB579D524eF3668D02BfB22ba2d543DB69D51493b
 
-{% embed url="https://ftmscan.com/address/0x7a8739d4Dd6998E537D8c5FEec45B3691E59D106" %}
+{% embed url="https://ftmscan.com/address/0xB579D524eF3668D02BfB22ba2d543DB69D51493b" %}
 
-**Oracle** 0x416910C320d4eA0c919C332c348ED316573Efe8C
+**Oracle** 0xdEc7E72125A89BC73Ed55092a74f83BC48A23844
 
-{% embed url="https://ftmscan.com/address/0x416910C320d4eA0c919C332c348ED316573Efe8C" %}
+{% embed url="https://ftmscan.com/address/0xdEc7E72125A89BC73Ed55092a74f83BC48A23844" %}
 
-**Masonry** 0x3973628d5c561487C9d7B8d649938e75c4eA2e7B
+**Masonry** 0xeFB7f99b042D63ce03817e688D6F4Cc7d5aC635E
 
-{% embed url="https://ftmscan.com/address/0x3973628d5c561487C9d7B8d649938e75c4eA2e7B" %}
+{% embed url="https://ftmscan.com/address/0xeFB7f99b042D63ce03817e688D6F4Cc7d5aC635E" %}
 
-**Treasury** 0x7e92909E38560259e8c9A6E4fD1898377407D2fC
+**Treasury** 0x47187198d3c85BcE0B6aE1B4fb305cCC2Ea20412
 
-{% embed url="https://ftmscan.com/address/0x7e92909E38560259e8c9A6E4fD1898377407D2fC" %}
+{% embed url="https://ftmscan.com/address/0x47187198d3c85BcE0B6aE1B4fb305cCC2Ea20412" %}
 
-**TaxOfficeV2** 0x3473281c1a7088f7438d087bc749550379a53621
+**TaxOfficeV2** 0x571001f0cd24a5e28c83f5EC44e8ffc959302D37
 
-{% embed url="https://ftmscan.com/address/0x3473281c1a7088f7438d087bc749550379a53621" %}
+{% embed url="https://ftmscan.com/address/0x571001f0cd24a5e28c83f5EC44e8ffc959302D37" %}
 
-**TaxOracle** 0x8dE29EE734b7a7811C51A963A6D9D99B84E2F84F
+**TaxOracle** 0x1988814a106d3a11e02f54A287090EaB660c9038
 
-{% embed url="https://ftmscan.com/address/0x8dE29EE734b7a7811C51A963A6D9D99B84E2F84F" %}
+{% embed url="https://ftmscan.com/address/0x1988814a106d3a11e02f54A287090EaB660c9038" %}
 
-**$FRANKENSTEIN-FTM-LP** 0x493a8E1A966AE87B8c2547CBc64063eC8df848aB
+**$FRANKENSTEIN-FTM-LP** 0xb9934C057e8B4132f318b85C43E5221cC4Ee5D0E
 
-{% embed url="https://ftmscan.com/address/0x493a8E1A966AE87B8c2547CBc64063eC8df848aB" %}
+{% embed url="https://ftmscan.com/address/0xb9934C057e8B4132f318b85C43E5221cC4Ee5D0E" %}
 
-**$VAMPIRE-FTM-LP** 0x1a377a4dC1DBaD9A646FCfEdaB93FA8518600669
+**$VAMPIRE-FTM-LP** 0x3865Fa1CD89f22B7eaeF35D048E4E8ea58C34D79
 
-{% embed url="https://ftmscan.com/address/0x1a377a4dC1DBaD9A646FCfEdaB93FA8518600669" %}
+{% embed url="https://ftmscan.com/address/0x3865Fa1CD89f22B7eaeF35D048E4E8ea58C34D79" %}
