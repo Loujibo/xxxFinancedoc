@@ -23,6 +23,6 @@
 
 ***
 
-* [Discord](https://discord.gg/UFvhD9Y8)
-* [Twitter](https://twitter.com/VaginaFinance)
-* [Copy of Twitter](https://twitter.com/VaginaFinance)
+* [Discord](https://discord.gg/XAe6mquvny)
+* [Twitter](https://twitter.com/haunted_finance)
+* [Website](https://hauntedfinance.app/)
