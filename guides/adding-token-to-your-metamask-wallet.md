@@ -2,7 +2,7 @@
 description: Metamask setup
 ---
 
-# 🔴 Adding $FRANKENSTEIN to your Metamask wallet
+# 🟣 Adding $FRANKENSTEIN to your Metamask wallet
 
 **Step 1** Click Import tokens
 

@@ -57,7 +57,7 @@ To incentivize healthy liquidity pools for the Haunted Finance protocol tokens, 
 
 ## [Pit](https://hauntedfinance.app/Pit)
 
-![](<../.gitbook/assets/pit (1).png>)
+![](../.gitbook/assets/pit.png)
 
 $SKULL (bond tokens) are available for purchase when $FRANKENSTEIN falls below the 1 FTM peg. If $FRANKENSTEIN's TWAP is between 1.00 and 1.01, neither $SKULL nor $FRANKENSTEIN will be issued.
 

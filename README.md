@@ -9,7 +9,7 @@ description: >-
 
 ## [Origins](./#origins)
 
-![](.gitbook/assets/02-Halloween-Pack\_Presentation-02.jpg)
+![](<.gitbook/assets/02-Halloween-Pack\_Presentation-02 (1).jpg>)
 
 Haunted Finance builds upon the great work of **tomb.finance**, which created the first algorithmic token pegged to $FTM on the Fantom Opera network. With the promise of lucrative yields, numerous subsequent copy-cat forks have launched, many of which turning out to be low-quality, poorly-managed, and downright dangerous to participate in (i.e. rug-pulls; awful founder token allocation, etc.)
 

@@ -15,7 +15,7 @@
 ## 👻 GUIDES
 
 * [🔴 Adding FTM Chain to your Metamask wallet](guides/adding-ftm-chain-to-your-metamask-wallet.md)
-* [🟣 Adding $FRANKENSTEIN to your Metamask wallet](guides/adding-ftm-chain-to-your-metamask-wallet-1.md)
+* [🟣 Adding $FRANKENSTEIN to your Metamask wallet](guides/adding-token-to-your-metamask-wallet.md)
 * [🟠 Bridging to FTM from Other Chains](guides/bridging-to-ftm-from-other-chains.md)
 * [🟡 FTM to wFTM (Wrapping FTM)](guides/ftm-to-wftm-wrapping-ftm.md)
 * [🟢 How to Buy $FRANKENSTEIN /$VAMPIRE](guides/how-to-buy-usdlabia-usdlshare.md)
