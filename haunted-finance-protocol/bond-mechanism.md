@@ -60,7 +60,7 @@ We will adjust our use cases, to have different behaviors on contraction and exp
 
 To encourage the redemption of $SKULL for $FRANKENSTEIN when $FRANKENSTEIN's TWAP > 1.1 and in order to incentivize users to redeem bonds at a higher price, $SKULL redemption is designed to be more profitable with a higher $FRANKENSTEIN TWAP value. The $SKULL to $FRANKENSTEIN ratio is 1:R, where R can be calculated using the formula as shown below:
 
-![](../.gitbook/assets/微信图片\_20220312215943.jpg)
+![](../.gitbook/assets/公式.jpg)
 
 ### When can I swap $SKULL for a premium?
 

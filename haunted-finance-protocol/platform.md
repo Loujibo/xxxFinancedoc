@@ -2,7 +2,7 @@
 
 ## [Masonry](https://hauntedfinance.app/Masonry)
 
-![](../.gitbook/assets/微信截图\_20220312175554.png)
+![](../.gitbook/assets/masonry.png)
 
 * Epoch duration: 6 hours
 * Any interaction with the [Masonry](https://hauntedfinance.app/Masonry) (staking/unstaking $VAMPIRE or withdrawing $FRANKENSTEIN rewards) will **lock your staked $VAMPIRE for 6 epochs and $FRANKENSTEIN** **rewards for 3 epochs.**
@@ -48,7 +48,7 @@ Once enough $FRANKENSTEIN is sufficiently stocked in the treasury to satisfy the
 
 ## [Cemetery](https://hauntedfinance.app/Cemetery)
 
-![](../.gitbook/assets/微信截图\_20220312180313.png)
+![](../.gitbook/assets/cemetery.png)
 
 To incentivize healthy liquidity pools for the Haunted Finance protocol tokens, our LP [Cemetery](https://hauntedfinance.app/Cemetery) have been seeded with $VAMPIREs to be distributed as rewards to LP stakers across a time period of 12 months. The total $VAMPIRE rewards are distributed from each [Cemetery](https://hauntedfinance.app/Cemetery) as follows:
 
@@ -57,7 +57,7 @@ To incentivize healthy liquidity pools for the Haunted Finance protocol tokens, 
 
 ## [Pit](https://hauntedfinance.app/Pit)
 
-![](../.gitbook/assets/微信截图\_20220312180433.png)
+![](<../.gitbook/assets/pit (1).png>)
 
 $SKULL (bond tokens) are available for purchase when $FRANKENSTEIN falls below the 1 FTM peg. If $FRANKENSTEIN's TWAP is between 1.00 and 1.01, neither $SKULL nor $FRANKENSTEIN will be issued.
 
