@@ -6,7 +6,13 @@ description: Below is a list of addresses and associated links to ftmscan
 
 {% hint style="success" %}
 **We've renounced our token contract prior to the launch of our Genesis pools, in order to provide transparency and address safety concerns mentioned by the community.**
+
+****[**https://ftmscan.com/tx/0x5bf98b999662779af76b3a2902b596786f71e0378070cbc9923b2e324f9a8e3e**](https://ftmscan.com/tx/0x5bf98b999662779af76b3a2902b596786f71e0378070cbc9923b2e324f9a8e3e)****
+
+****[**https://ftmscan.com/tx/0xc87546d719424a67f423af29a58abae47eacba131d23115591eaf11d59d57bfc**](https://ftmscan.com/tx/0xc87546d719424a67f423af29a58abae47eacba131d23115591eaf11d59d57bfc)****
 {% endhint %}
+
+****
 
 $**FRANKENSTEIN** 0xf337cdF10ee64D8EEf2C3c87A5ab13b520EcaFB7
 
